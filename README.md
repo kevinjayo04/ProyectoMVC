@@ -2,7 +2,7 @@
  
 -Este proyecto es una aplicación Java para la gestión de un concesionario de coches, estructurada con un diseño MVC (Modelo-Vista-Controlador). Incluye clases para manejar datos de personas (persona) y vehículos (vehiculo) mediante DTOs y DAOs, con lógica de negocio en service y controller. La conexión a la base de datos se gestiona a través de conexionBD, y las vistas (view) permiten modificar o eliminar registros de coches y personas.
 
-#Despliegue
+# Despliegue
 
 -Para desplegar y ejecutar el proyecto, sigue estos pasos:
 
